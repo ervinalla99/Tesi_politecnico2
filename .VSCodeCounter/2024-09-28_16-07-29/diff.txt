@@ -1,0 +1,66 @@
+Date : 2024-09-28 16:07:29
+Directory : c:\Users\User\Desktop\IFC_Viewer
+Total : 24 files,  6741 codes, 254 comments, 222 blanks, all 7217 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          3 |      5,892 |         56 |          2 |      5,950 |
+| JavaScript         |          4 |        545 |        195 |        169 |        909 |
+| HTML               |          2 |        219 |          0 |         32 |        251 |
+| TypeScript         |         13 |         56 |          1 |         14 |         71 |
+| JSON with Comments |          1 |         25 |          2 |          0 |         27 |
+| Markdown           |          1 |          4 |          0 |          5 |          9 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                              | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                 |         24 |      6,741 |        254 |        222 |      7,217 |
+| . (Files)                                                                         |         11 |      6,330 |         83 |         62 |      6,475 |
+| dist                                                                              |         13 |        411 |        171 |        160 |        742 |
+| dist (Files)                                                                      |          2 |        365 |        171 |        149 |        685 |
+| dist\bim-components                                                               |          2 |          8 |          0 |          2 |         10 |
+| dist\bim-components (Files)                                                       |          1 |          1 |          0 |          1 |          2 |
+| dist\bim-components\AppManager                                                    |          1 |          7 |          0 |          1 |          8 |
+| dist\components                                                                   |          9 |         38 |          0 |          9 |         47 |
+| dist\components\Panels                                                            |          5 |         19 |          0 |          5 |         24 |
+| dist\components\Panels (Files)                                                    |          4 |         15 |          0 |          4 |         19 |
+| dist\components\Panels\Sections                                                   |          1 |          4 |          0 |          1 |          5 |
+| dist\components\Tables                                                            |          1 |          7 |          0 |          1 |          8 |
+| dist\components\Toolbars                                                          |          3 |         12 |          0 |          3 |         15 |
+| dist\components\Toolbars\Sections                                                 |          3 |         12 |          0 |          3 |         15 |
++-----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                          | language           | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\User\Desktop\IFC_Viewer\.eslintrc.cjs                                    | JavaScript         |         65 |          0 |          1 |         66 |
+| c:\Users\User\Desktop\IFC_Viewer\README.md                                        | Markdown           |          4 |          0 |          5 |          9 |
+| c:\Users\User\Desktop\IFC_Viewer\dist\bim-components\AppManager\index.d.ts        | TypeScript         |          7 |          0 |          1 |          8 |
+| c:\Users\User\Desktop\IFC_Viewer\dist\bim-components\index.d.ts                   | TypeScript         |          1 |          0 |          1 |          2 |
+| c:\Users\User\Desktop\IFC_Viewer\dist\bundle.js                                   | JavaScript         |        364 |        171 |        148 |        683 |
+| c:\Users\User\Desktop\IFC_Viewer\dist\components\Panels\Help.d.ts                 | TypeScript         |          3 |          0 |          1 |          4 |
+| c:\Users\User\Desktop\IFC_Viewer\dist\components\Panels\ProjectInformation.d.ts   | TypeScript         |          4 |          0 |          1 |          5 |
+| c:\Users\User\Desktop\IFC_Viewer\dist\components\Panels\Sections\Groupings.d.ts   | TypeScript         |          4 |          0 |          1 |          5 |
+| c:\Users\User\Desktop\IFC_Viewer\dist\components\Panels\Selection.d.ts            | TypeScript         |          4 |          0 |          1 |          5 |
+| c:\Users\User\Desktop\IFC_Viewer\dist\components\Panels\Settings.d.ts             | TypeScript         |          4 |          0 |          1 |          5 |
+| c:\Users\User\Desktop\IFC_Viewer\dist\components\Tables\CustomSelections.d.ts     | TypeScript         |          7 |          0 |          1 |          8 |
+| c:\Users\User\Desktop\IFC_Viewer\dist\components\Toolbars\Sections\Camera.d.ts    | TypeScript         |          4 |          0 |          1 |          5 |
+| c:\Users\User\Desktop\IFC_Viewer\dist\components\Toolbars\Sections\Import.d.ts    | TypeScript         |          4 |          0 |          1 |          5 |
+| c:\Users\User\Desktop\IFC_Viewer\dist\components\Toolbars\Sections\Selection.d.ts | TypeScript         |          4 |          0 |          1 |          5 |
+| c:\Users\User\Desktop\IFC_Viewer\dist\main.d.ts                                   | TypeScript         |          1 |          0 |          1 |          2 |
+| c:\Users\User\Desktop\IFC_Viewer\index.html                                       | HTML               |        163 |          0 |         22 |        185 |
+| c:\Users\User\Desktop\IFC_Viewer\package-lock.json                                | JSON               |      5,833 |          0 |          1 |      5,834 |
+| c:\Users\User\Desktop\IFC_Viewer\package.json                                     | JSON               |         37 |          0 |          1 |         38 |
+| c:\Users\User\Desktop\IFC_Viewer\plans.html                                       | HTML               |         56 |          0 |         10 |         66 |
+| c:\Users\User\Desktop\IFC_Viewer\server.cjs                                       | JavaScript         |         90 |         24 |         18 |        132 |
+| c:\Users\User\Desktop\IFC_Viewer\tsconfig.jest.json                               | JSON               |         22 |         56 |          0 |         78 |
+| c:\Users\User\Desktop\IFC_Viewer\tsconfig.json                                    | JSON with Comments |         25 |          2 |          0 |         27 |
+| c:\Users\User\Desktop\IFC_Viewer\vite.config.ts                                   | TypeScript         |          9 |          1 |          2 |         12 |
+| c:\Users\User\Desktop\IFC_Viewer\webpack.config.cjs                               | JavaScript         |         26 |          0 |          2 |         28 |
+| Total                                                                             |                    |      6,741 |        254 |        222 |      7,217 |
++-----------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

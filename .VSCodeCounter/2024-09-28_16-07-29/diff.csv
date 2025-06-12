@@ -1,0 +1,26 @@
+"filename", "language", "TypeScript", "JSON with Comments", "JavaScript", "JSON", "Markdown", "HTML", "comment", "blank", "total"
+"c:\Users\User\Desktop\IFC_Viewer\.eslintrc.cjs", "JavaScript", 0, 0, 65, 0, 0, 0, 0, 1, 66
+"c:\Users\User\Desktop\IFC_Viewer\README.md", "Markdown", 0, 0, 0, 0, 4, 0, 0, 5, 9
+"c:\Users\User\Desktop\IFC_Viewer\dist\bim-components\AppManager\index.d.ts", "TypeScript", 7, 0, 0, 0, 0, 0, 0, 1, 8
+"c:\Users\User\Desktop\IFC_Viewer\dist\bim-components\index.d.ts", "TypeScript", 1, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\User\Desktop\IFC_Viewer\dist\bundle.js", "JavaScript", 0, 0, 364, 0, 0, 0, 171, 148, 683
+"c:\Users\User\Desktop\IFC_Viewer\dist\components\Panels\Help.d.ts", "TypeScript", 3, 0, 0, 0, 0, 0, 0, 1, 4
+"c:\Users\User\Desktop\IFC_Viewer\dist\components\Panels\ProjectInformation.d.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\IFC_Viewer\dist\components\Panels\Sections\Groupings.d.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\IFC_Viewer\dist\components\Panels\Selection.d.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\IFC_Viewer\dist\components\Panels\Settings.d.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\IFC_Viewer\dist\components\Tables\CustomSelections.d.ts", "TypeScript", 7, 0, 0, 0, 0, 0, 0, 1, 8
+"c:\Users\User\Desktop\IFC_Viewer\dist\components\Toolbars\Sections\Camera.d.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\IFC_Viewer\dist\components\Toolbars\Sections\Import.d.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\IFC_Viewer\dist\components\Toolbars\Sections\Selection.d.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 1, 5
+"c:\Users\User\Desktop\IFC_Viewer\dist\main.d.ts", "TypeScript", 1, 0, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\User\Desktop\IFC_Viewer\index.html", "HTML", 0, 0, 0, 0, 0, 163, 0, 22, 185
+"c:\Users\User\Desktop\IFC_Viewer\package-lock.json", "JSON", 0, 0, 0, 5833, 0, 0, 0, 1, 5834
+"c:\Users\User\Desktop\IFC_Viewer\package.json", "JSON", 0, 0, 0, 37, 0, 0, 0, 1, 38
+"c:\Users\User\Desktop\IFC_Viewer\plans.html", "HTML", 0, 0, 0, 0, 0, 56, 0, 10, 66
+"c:\Users\User\Desktop\IFC_Viewer\server.cjs", "JavaScript", 0, 0, 90, 0, 0, 0, 24, 18, 132
+"c:\Users\User\Desktop\IFC_Viewer\tsconfig.jest.json", "JSON", 0, 0, 0, 22, 0, 0, 56, 0, 78
+"c:\Users\User\Desktop\IFC_Viewer\tsconfig.json", "JSON with Comments", 0, 25, 0, 0, 0, 0, 2, 0, 27
+"c:\Users\User\Desktop\IFC_Viewer\vite.config.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 1, 2, 12
+"c:\Users\User\Desktop\IFC_Viewer\webpack.config.cjs", "JavaScript", 0, 0, 26, 0, 0, 0, 0, 2, 28
+"Total", "-", 56, 25, 545, 5892, 4, 219, 254, 222, 7217

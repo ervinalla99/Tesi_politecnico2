@@ -94,11 +94,11 @@ world.camera.controls.addEventListener("rest", () => {
   tilesLoader.culler.needsUpdate = true;
 });
 
-const file = await fetch("src/road.frag");
+const file = await fetch("src/fullModel.frag");
 const data = await file.arrayBuffer();
 const buffer = new Uint8Array(data);
 const model = await fragments.load(buffer);
-const properties = await fetch("src/road.json");
+const properties = await fetch("src/fullModel.json");
 const props = await properties.json();
 model.setLocalProperties(props);
 console.log(model);
@@ -503,3 +503,21 @@ viewportGrid.layouts = {
 };
 
 viewportGrid.layout = "main";
+// const casters = components.get(OBC.Raycasters);
+// casters.get(world);
+// const clipperPlane = components.get(OBC.Clipper);
+// clipperPlane.enabled = true;
+// const edges1 = components.get(OBF.ClipEdges);
+// clipperPlane.Type = OBF.EdgesPlane;
+// app.ondblclick = () => {
+//   if (clipperPlane.enabled) {
+//     clipperPlane.create(world);
+//   }
+// };
+// window.onkeydown = (event) => {
+//   if (event.code === "Delete" || event.code === "Backspace") {
+//     if (clipperPlane.enabled) {
+//       clipperPlane.delete(world);
+//     }
+//   }
+// };
